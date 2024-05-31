@@ -1,0 +1,30 @@
+.contenuti {
+    gap: 15px;
+    display: flex;
+    flex: 1;
+    background-color: hwb(133 9% 43%);
+    flex-direction: column-reverse;
+    text-align: center;
+    justify-content: center;
+    margin: 0;
+}
+
+.post {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+    border-radius: 25px;
+    display: flex;
+    flex: 1;
+    border: 6px solid;
+    justify-content: center;
+    flex-direction: column;
+    font-size: large;
+    font-weight: bold;
+    margin-top: 5px;
+}
+
+.id {
+    margin: 0;
+}
+
+
+
